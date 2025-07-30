@@ -1,0 +1,10 @@
+date,channel,impressions,clicks,conversions,revenue,region,ai_personalized
+2024-06-01,Email,1200,300,50,500,North,True
+2024-06-01,Facebook,3000,200,40,420,East,False
+2024-06-01,Google,5000,500,100,1100,West,True
+2024-06-02,Email,1000,250,45,460,North,True
+2024-06-02,Facebook,3100,220,43,430,East,False
+2024-06-02,Google,4800,480,95,1050,West,True
+2024-06-03,Email,1300,310,55,520,North,True
+2024-06-03,Facebook,2900,180,35,400,East,False
+2024-06-03,Google,4700,470,90,1000,West,True
